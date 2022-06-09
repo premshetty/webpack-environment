@@ -1,3 +1,6 @@
+# npm i
+to install the dependencies and node modules
+
 # add `src` folder to the rood directory 
 
   write your code inn src directory 
