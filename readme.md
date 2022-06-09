@@ -1,4 +1,4 @@
-# npm i
+# `npm i`
 to install the dependencies and node modules
 
 # add `src` folder to the rood directory 
